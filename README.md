@@ -142,13 +142,13 @@ strategic growth in digital printing and supply chain management solutions.</li>
     <div class="section">
         <h2>Publications</h2>
         <ul>
-            <li>Investigating the Functionality of Prosthetic Hand Movements for Paralyzed Individuals</li>
-           https://doi.org/10.1007/978-3-031-60428-7_12
             <li>Design and Opportunity of Smart Cooling Vests to Reduce Heat Stress for 
 Construction Workers</li>
             https://doi.org/10.1145/3629606.3629656
             <li>Designing a Smart Cooling Vest to Reduce Heat Stress for Construction Workers</li>
             https://doi.org/10.1007/978-3-031-60441-6_3
+              <li>Investigating the Functionality of Prosthetic Hand Movements for Paralyzed Individuals</li>
+           https://doi.org/10.1007/978-3-031-60428-7_12
         </ul>
     </div>
      <div class="section">
