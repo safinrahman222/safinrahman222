@@ -88,7 +88,7 @@ strategic growth in digital printing and supply chain management solutions.</li>
         </ul>
     </div>
     <div class="section">
-        <h3>Ningbo Tongze International Logistics - Overseas Suoervisor</h3>
+        <h3>Ningbo Tongze International Logistics - Overseas Supervisor</h3>
         <p><strong>November 2023 – March 2024 | Ningbo, Zhejiang, China</strong></p>
         <ul>
             <li>Managed international logistics operations, overseeing ocean and air freight services.</li>
