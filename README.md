@@ -83,6 +83,33 @@
             <li>Lead the promotion and sales of advanced digital solutions tailored for the textile and apparel industry.</li>
             <li>Act as the primary liaison for cross-border clients, managing carrier negotiations and vendor relations.</li>
             <li>Oversee the implementation of digital transformation services including blockchain applications.</li>
+            <li>Collaborate with product development and marketing teams to drive innovation and achieve 
+strategic growth in digital printing and supply chain management solutions.</li>
+        </ul>
+    </div>
+    <div class="section">
+        <h3>Ningbo Tongze International Logistics - Overseas Suoervisor</h3>
+        <p><strong>November 2023 – March 2024 | Ningbo, Zhejiang, China</strong></p>
+        <ul>
+            <li>Managed international logistics operations, overseeing ocean and air freight services.</li>
+            <li>Monitored profit and loss, ensuring competitiveness in a global market.</li>
+            <li>Collaborated with international partners to implement new service contracts and maintain compliance with company policies.</li>
+        </ul>
+    </div>
+    <div class="section">
+        <h3>Xiamen Zhuizan Trade Co., Ltd. - Sales Manager (Remote)</h3>
+        <p><strong>March 2022 – August 2023 | Xiamen, Fujian, China</strong></p>
+        <ul>
+            <li>Led international business development in the seafood industry, managing client relations, export/import documentation, and order processing.</li>
+            <li>Expanded online platform sales in China’s competitive market, contributing to a 20% increase in sales during the tenure.</li>
+        </ul>
+    </div>
+     <div class="section">
+        <h3>Hazera Design & Development Ltd. - Computer Operator</h3>
+        <p><strong>January 2017 – February 2018 | Dhaka, Bangladesh</strong></p>
+        <ul>
+            <li>Optimized operational workflows by studying production schedules and generating necessary reports for higher management.</li>
+            <li>Ensured data integrity and protected sensitive information through effective system monitoring and troubleshooting.</li>
         </ul>
     </div>
 <!-- Education Section -->
@@ -92,6 +119,10 @@
         <p><strong>September 2022 – March 2025</strong></p>
         <h3>Southwest Forestry University - Bachelor's Degree in Computer Science and Engineering</h3>
         <p><strong>March 2018 – February 2022</strong></p>
+    </div>
+    <div class="section">
+        <h2>Certifications</h2>
+        <li>Designing for Sustainable Development</li>
     </div>
 <!-- Skills Section -->
     <div class="section skills">
@@ -112,7 +143,12 @@
         <h2>Publications</h2>
         <ul>
             <li>Investigating the Functionality of Prosthetic Hand Movements for Paralyzed Individuals</li>
-            <li>Design and Opportunity of Smart Cooling Vests to Reduce Heat Stress for Construction Workers</li>
+           https://doi.org/10.1007/978-3-031-60428-7_12
+            <li>Design and Opportunity of Smart Cooling Vests to Reduce Heat Stress for 
+Construction Workers</li>
+            https://doi.org/10.1145/3629606.3629656
+            <li>Designing a Smart Cooling Vest to Reduce Heat Stress for Construction Workers</li>
+            https://doi.org/10.1007/978-3-031-60441-6_3
         </ul>
     </div>
 <!-- Contact Section -->
@@ -121,7 +157,14 @@
         <p>You can contact me at: <strong>safinrahman222@gmail.com</strong></p>
         <p>LinkedIn: <a href="https://www.linkedin.com/in/safin-rahman-91862b229">linkedin.com/in/safin-rahman-91862b229</a></p>
     </div>
-
+     <div class="section">
+        <h2>Languages</h2>
+        <li>English (Fluent)</li>
+         <li>Chinese (Intermediate)</li>
+         <li>Bengali (Native)</li>
+         <li>Hindi (Fluent)</li>
+         <li>Urdu (Fluent)</li>
+    </div>
 </div>
 
 </body>
