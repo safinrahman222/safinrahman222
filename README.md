@@ -151,12 +151,6 @@ Construction Workers</li>
             https://doi.org/10.1007/978-3-031-60441-6_3
         </ul>
     </div>
-<!-- Contact Section -->
-    <div class="section">
-        <h2>Contact</h2>
-        <p>You can contact me at: <strong>safinrahman222@gmail.com</strong></p>
-        <p>LinkedIn: <a href="https://www.linkedin.com/in/safin-rahman-91862b229">linkedin.com/in/safin-rahman-91862b229</a></p>
-    </div>
      <div class="section">
         <h2>Languages</h2>
         <li>English (Fluent)</li>
@@ -164,6 +158,12 @@ Construction Workers</li>
          <li>Bengali (Native)</li>
          <li>Hindi (Fluent)</li>
          <li>Urdu (Fluent)</li>
+    </div>
+    <!-- Contact Section -->
+    <div class="section">
+        <h2>Contact</h2>
+        <p>You can contact me at: <strong>safinrahman222@gmail.com</strong></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/safin-rahman-91862b229">linkedin.com/in/safin-rahman-91862b229</a></p>
     </div>
 </div>
 
