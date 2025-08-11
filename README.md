@@ -64,7 +64,7 @@
 <body>-->
 
 <header>
-    <h1>Safin Rahman - Professional Portfolio</h1>
+    <h1>Safin Rahman</h1>
     <p>Innovation-Driven Business Leader with a Passion for AI and Technology</p>
 </header>
 
